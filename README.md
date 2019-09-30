@@ -2,4 +2,4 @@
 
 Beispielprojekt zum Artikel "Dinner in the Dark"
 
-oas file is a modified version of https://github.com/OAI/OpenAPI-Specification/blob/master/examples/v3.0/petstore-expanded.yaml
+Die Spezifikation ist eine veränderte Version von [Pet Store Expanded](https://github.com/OAI/OpenAPI-Specification/blob/master/examples/v3.0/petstore-expanded.yaml)
